@@ -1,3 +1,6 @@
+[![](https://visitcount.itsvg.in/api?id=fmancusoit&icon=3&color=9)](https://visitcount.itsvg.in)
+---
+
 # 💫 About Me:
 👋 Hi, I’m @fmancusoit<br>🌱 I’m currently learning PHP and JS<br>🏃‍♂️ Sometimes doing sport<br><br>📫 How to reach me --> www.francescomancuso.it<br>🌐 Network --> www.francescomancuso.it/network/
 
@@ -11,8 +14,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=fmancusoit&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fmancusoit&theme=blue_navy&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fmancusoit&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=fmancusoit&icon=3&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
