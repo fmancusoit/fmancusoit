@@ -2,7 +2,7 @@
 ---
 
 ## 💫 About Me:
-👋 Hi, I’m @fmancusoit<br>🌱 I’m currently learning Python, PHP, JS, C++ and Java<br>🏃‍♂️ Sometimes doing sport<br><br>📫 How to reach me --> www.francescomancuso.it<br>🌐 Network --> www.francescomancuso.it/network/
+👋 Hi, I’m @fmancusoit<br>🌱 I’m currently learning Python, PHP, JS, C++, Java, Next.js & React<br>🏃‍♂️ Sometimes doing sport<br>🛡️ Learning CyberSecurity with CyberChallenge.it<br><br>📫 How to reach me --> www.francescomancuso.it<br>🌐 Network --> www.francescomancuso.it/network/
 
 
 ## 🌐 Socials:
