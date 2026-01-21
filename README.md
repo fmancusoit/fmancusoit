@@ -1,9 +1,8 @@
-[![](https://visitcount.itsvg.in/api?id=fmancusoit&icon=3&color=9)](https://visitcount.itsvg.in)
----
-
 ## 💫 About Me:
 👋 Hi, I’m @fmancusoit<br>🌱 I’m currently learning Python, PHP, JS, C++, Java, Next.js & React<br>🏃‍♂️ Sometimes doing sport<br>🛡️ Learning CyberSecurity with CyberChallenge.it<br><br>📫 How to reach me --> www.francescomancuso.it<br>🌐 Network --> www.francescomancuso.it/network/
 
+## ⚒️ Moving
+I'm moving all my repos here --> [git.vps.francescomancuso.it/francesco/](https://git.vps.francescomancuso.it/francesco/)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fmancusoit) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fmancusoit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fmancusoit) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fmancusoit) 
